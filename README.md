@@ -8,7 +8,7 @@ The dataset has 6 columns:
 5. ProductID : The product ID 
 6. Cost : Cost of a unit of the product
 
-I have attempted to extract the folllowing details from this dataset
+I have attempted to extract the following details from this dataset
 1. Revenue collected per year
 2. Revenue collected per month
 3. Number of purchases made from each Retail outlet
